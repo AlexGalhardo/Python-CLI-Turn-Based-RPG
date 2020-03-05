@@ -9,17 +9,17 @@
 
 # ./Python/Gameplay/PitsOfIferno_Gameply.py
 
-from Monsters.PitsOfInferno_Monsters.Bear import Bear
-from Monsters.PitsOfInferno_Monsters.Cyclops import Cyclops
-from Monsters.PitsOfInferno_Monsters.Hunter import Hunter
-from Monsters.PitsOfInferno_Monsters.Dragon import Dragon
-from Monsters.PitsOfInferno_Monsters.Bear import Bear
-from Monsters.PitsOfInferno_Monsters.Infernalist import Infernalist
-from Monsters.PitsOfInferno_Monsters.Warlock import Warlock
-from Monsters.PitsOfInferno_Monsters.Fury import Fury
-from Monsters.PitsOfInferno_Monsters.DarkTorturer import DarkTorturer
-from Monsters.PitsOfInferno_Monsters.Demon import Demon
-from Monsters.PitsOfInferno_Monsters.Morgaroth import Morgaroth
+from Monsters.Bear import Bear
+from Monsters.Cyclops import Cyclops
+from Monsters.Hunter import Hunter
+from Monsters.Dragon import Dragon
+from Monsters.Bear import Bear
+from Monsters.Infernalist import Infernalist
+from Monsters.Warlock import Warlock
+from Monsters.Fury import Fury
+from Monsters.DarkTorturer import DarkTorturer
+from Monsters.Demon import Demon
+from Monsters.Morgaroth import Morgaroth
 
 from Functions.Round_Against_Monster import Round_Against_Monster
 from Functions.After_Fight import After_Fight

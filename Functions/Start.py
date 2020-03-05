@@ -12,8 +12,8 @@
 from Functions.Prints import *
 from Functions.Character_Creation import *
 from Functions.Gameplay import Gameplay
-from Functions.Select_Area import *
 from Functions.NPC_Round import NPC_Round
+from Area.PitsOfInfernoArea import Pits_Of_Inferno_Start_Gameplay
 
 from SuperClass.GameStatistics import GameStatistics
 
@@ -56,21 +56,10 @@ def Start():
 		CharacterObject = Create_Character( characterName, vocationOption )
 
 		'''
-		This function call Character_Creation inside ./Functions/
-		This function get character objet
-		'''
-		selectedArea = Select_Area()
-
-
-		'''
 		This function call Adventure_Game_Start inside ./Functions/
 		This function start main game loop 
 		'''
-		Adventure_Game_Start( selectedArea, CharacterObject )
-
-		'''
-		If Player Dies or Complete the Area
-		'''
+		Pits_Of_Inferno_Start_Gameplay( CharacterObject )
 
 		'''
 		Show Game Statistics So Far
