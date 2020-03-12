@@ -1,14 +1,15 @@
 <br>
-<h3 align="center">Python RPG</h3>h3>
+<h3 align="center">Python RPG</h3>
 <hr>
 
 
 ### Version: Beta (has some bugs to fix yet)
 
 ### Introduction
- - I made this program to learn the basics of Object Oriented Programming and to learn a little bit about Python
- - I was inspired by my favorite video game, Tibia Online, who give all the monster names and classes for my program.
- - I hope you enjoy play this awsome command line RPG turn based game, like I enjoyed to make this.  
+  - I made this program to learn the basics of Object-Oriented Programming and to learn a little about Python programming language, beyond, of course,  the best software engineering practices, like SOLID, Design Patterns, Clean Code, KISS, DRY, and so on.
+  - I was inspired by my favorite video game, Tibia Online, where I got all the names of the classes and monsters from the program.
+  - I hope you enjoy playing this awesome command line RPG turn-based game, just like me, who really enjoyed developing this game.
+
 
 ### How To Use The Program
 
