@@ -1,7 +1,7 @@
 <br>
 <h3 align="center">Python RPG</h3>
 <br>
-<p class="text-center">"Its pretty simple, but it's better than Flappy Bird" - Elon Musk :smile:</p>
+<center>"Its pretty simple, but it's better than Flappy Bird" - Elon Musk :smile:</center>
 <br>
 
 ### Currently Version: Alpha (has some bugs to fix and a lot of refactoring to do yet)
