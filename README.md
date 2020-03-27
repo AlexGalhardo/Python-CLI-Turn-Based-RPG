@@ -1,10 +1,10 @@
 <br>
 <h3 align="center">Python RPG</h3>
 <br>
-<center>"Its pretty simple, but it's better than Flappy Bird" - Elon Musk :smile:</center>
+<p align="center">"Its pretty simple, but it's better than Flappy Bird" - Elon Musk :smile:</p>
 <br>
 
-### Currently Version: Alpha (has some bugs to fix and a lot of refactoring to do yet)
+#### Currently Version: Alpha (has some bugs to fix and a lot of refactoring to do yet)
 
 ### Introduction
   - I made this program to learn the basics of Object-Oriented Programming and to learn a little about Python programming language, beyond, of course,  the best software engineering practices, like SOLID, Design Patterns, Clean Code, KISS, DRY, and so on.
@@ -17,7 +17,7 @@
     $ git clone https://github.com/AlexGalhardo/Python-RPG.git
     $ python3 main.py
 
-## License
+### License
 
 [MIT](http://opensource.org/licenses/MIT)
 
