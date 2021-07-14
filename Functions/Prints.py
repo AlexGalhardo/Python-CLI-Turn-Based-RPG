@@ -11,15 +11,16 @@
 
 # Print Game Introductions
 def Game_Introduction():
-	print('\n\t\t Alex Galhardo Vieira')
-	print('\t\t github.com/AlexGalhardo')
-	print('\t\t aleexgvieira@gmail.com')
-	print("\n\t\t Welcome to Awesome RPG\n")
-	print("\t\t A Fan Game Inspired in \n\t\t Tibia Online and\n\t\t Final Fantasy Classics.")
+	print("\n\t Welcome to Python CLI RPG!\n")
+	print('\n\t Created by: Alex Galhardo Vieira')
+	print('\t github.com/AlexGalhardo')
+	print('\t aleexgvieira@gmail.com')
+	
+	print("\n\t A Fan Game Inspired in Tibia Online and Final Fantasy Classics.")
 
 # Introductions to how to play the game
 def How_To_Play_Introduction():
-	print('\n\t\t Introductions here')
+	print('\n')
 
 def Fight_Round_Print():
 	print('\n\t --------> FIGHT ROUND <--------')
