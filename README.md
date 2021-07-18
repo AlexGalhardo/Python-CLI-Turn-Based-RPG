@@ -16,8 +16,8 @@
 
 ## How To Use The Program
 
-    $ git clone https://github.com/AlexGalhardo/Python-RPG.git
-    $ cd Python-RPG
+    $ git clone https://github.com/AlexGalhardo/Python-CLI-RPG.git
+    $ cd Python-CLI-RPG
     $ python3 main.py
 
 ## Tools Used
