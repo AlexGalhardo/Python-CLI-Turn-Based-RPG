@@ -1,5 +1,5 @@
 <br>
-<h3 align="center">🧙‍♂️ Python CLI RPG 🥷</h3>
+<h3 align="center">🧙‍♂️ Python CLI RPG 🧙‍♂️</h3>
 
 
 ## Introduction
