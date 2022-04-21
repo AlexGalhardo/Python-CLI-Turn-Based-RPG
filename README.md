@@ -1,6 +1,9 @@
 <br>
 <h3 align="center">🧙‍♂️ Python CLI RPG 🧙‍♂️</h3>
 
+## UPDATE 2022
+#### You can se the new TypeScript CLI RPG 2.0 version refactored from this python project here: https://github.com/AlexGalhardo/TypeScript-CLI-RPG
+
 
 ## Introduction
   - I created this program in the early days of my programming studies at the university and during [Gustavo Guanabara's Python course on YouTube](https://www.youtube.com/watch?v=S9uPNppGsGo&ab_channel=CursoemV%C3%ADdeo)
