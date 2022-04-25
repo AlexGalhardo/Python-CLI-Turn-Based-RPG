@@ -2,7 +2,7 @@
 <h3 align="center">🧙‍♂️ Python CLI RPG 🧙‍♂️</h3>
 
 ## UPDATE 2022
-#### You can se the new TypeScript CLI RPG 2.0 version refactored from this python project here: https://github.com/AlexGalhardo/TypeScript-CLI-RPG
+#### You can se the new TypeScript CLI RPG 2.0 version I'm refactoring from this python project here: https://github.com/AlexGalhardo/TypeScript-CLI-RPG
 
 
 ## Introduction
