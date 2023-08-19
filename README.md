@@ -11,7 +11,7 @@ git clone https://github.com/AlexGalhardo/Python-CLI-Turn-Based-RPG.git
 ```
 - Enter folder
 ```
-cd Python-CLI-Turn-Based-RPG
+cd Python-CLI-Turn-Based-RPG/
 ```
 - Start game
 ```
