@@ -1,35 +1,22 @@
 <br>
-<h3 align="center">🧙‍♂️ Python CLI RPG 🧙‍♂️</h3>
-
-## UPDATE 2022
-#### You can se the new TypeScript CLI RPG 2.0 version I'm refactoring from this python project here: https://github.com/AlexGalhardo/TypeScript-CLI-RPG
-
+<h2 align="center">Python CLI Turn Based RPG 🎮</h2>
 
 ## Introduction
-  - I created this program in the early days of my programming studies at the university and during [Gustavo Guanabara's Python course on YouTube](https://www.youtube.com/watch?v=S9uPNppGsGo&ab_channel=CursoemV%C3%ADdeo)
-  - I created this project mainly to learn the basics of software development such as:
-     - Object Oriented Programming
-     - Import of modules and files
-     - Clean Code, KISS, SOLID
-     - Design Patterns
-     - How to document a software
-     - Tests
-     - And so on.
-   - The program is under development. I have been refactoring it over the years during my professional career as I develop my programming skills.
+- One of the first side projects I created in 2017, to learn OOP and Python programming language.
 
-## How To Use The Program
-
-    $ git clone https://github.com/AlexGalhardo/Python-CLI-RPG.git
-    $ cd Python-CLI-RPG
-    $ python3 main.py
-
-## Tools Used
-- Linux Mint XFCE
-- Python3
-- SublimeText
-- GoogleTranslate
-- A lot of stackoverflow, documentation, etc 
-- [Curso em Video - Curso de Python YouTube](https://www.youtube.com/watch?v=S9uPNppGsGo&ab_channel=CursoemV%C3%ADdeo)
+## How to play this game
+- Clone repository
+```
+git clone https://github.com/AlexGalhardo/Python-CLI-RPG.git
+```
+- Enter folder
+```
+cd Python-CLI-RPG
+```
+- Start game
+```
+python3 main.py
+```
 
 ## Game In Action Images 
 ![python_1](https://user-images.githubusercontent.com/19540357/125547370-d7fc6c16-8911-4249-9ae6-957f47e37354.png)
