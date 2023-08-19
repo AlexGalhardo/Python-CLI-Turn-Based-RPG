@@ -7,7 +7,7 @@
 ## How to play this game
 - Clone repository
 ```
-git clone https://github.com/AlexGalhardo/Python-CLI-RPG.git
+git clone https://github.com/AlexGalhardo/Python-CLI-Turn-Based-RPG.git
 ```
 - Enter folder
 ```
