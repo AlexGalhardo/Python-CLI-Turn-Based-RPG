@@ -1,6 +1,11 @@
 <br>
 <h2 align="center">Python CLI Turn Based RPG 🎮</h2>
 
+## [Typescript 2022 Version](https://github.com/AlexGalhardo/TypeScript-CLI-Turn-Based-RPG)
+
+- Refactored version of this game I created to learn Typescript syntax basics.
+- [https://github.com/AlexGalhardo/TypeScript-CLI-Turn-Based-RPG](https://github.com/AlexGalhardo/TypeScript-CLI-Turn-Based-RPG)
+
 ## Introduction
 - One of the first side projects I created in 2017, to learn OOP and Python programming language.
 
